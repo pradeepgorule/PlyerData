@@ -1,0 +1,41 @@
+ 
+.align-right{
+    text-align: right;
+    font-weight: 700;
+    position: relative;
+    bottom: 50px;
+    left: 15px;
+}
+.upcmg-match p{
+    line-height: 10px;
+
+}
+.upcmg-match .upcmg-heading{
+    font-weight: 700;
+    font-size: 14px;
+}
+.upcmg-match .upcmg-details{
+    font-size: 13px;
+    font-weight: 600;
+    color: #928c8cf4;
+}
+.spinner{
+    position: absolute;
+    width: 100%;
+   
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(0 0 0 / 25%);
+}
+.input{
+    border: 2px solid #008eff;
+    border-radius: 20px;
+    margin: auto;
+    display: block;
+    position: relative;
+    margin-bottom: 15px;
+    outline: none;
+}
